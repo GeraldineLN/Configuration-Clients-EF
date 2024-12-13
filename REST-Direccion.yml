@@ -6,7 +6,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3305/bd_ef
     username: root
-    password: 1234
+    password: mysql
   jpa:
     properties:
       dialect: org.hibernate.dialect.MySQL5Dialect
